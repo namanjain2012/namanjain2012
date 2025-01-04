@@ -30,9 +30,9 @@ I’m a **BTech Computer Science Engineering student** at **BPIT IPU** with a pa
 
 ## 🤝 Let’s Connect  
 
-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" style="vertical-align:middle; margin-right: 10px;">]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/naman-jain-838302256/))
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" style="vertical-align:middle; margin-right: 10px;">](https://www.linkedin.com/in/naman-jain-838302256/)
 
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" style="vertical-align:middle; margin-right: 10px;">](namanjain1093@gmail.com)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" style="vertical-align:middle; margin-right: 10px;">](https://mail.google.com/mail/?view=cm&fs=1&to=namanjain1093@gmail.com&su=SUBJECT&body=HEY%20Naman,%20)
 
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" style="vertical-align:middle; margin-right: 10px;">](https://leetcode.com/namanjain2012)
 
