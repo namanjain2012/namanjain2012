@@ -1,4 +1,9 @@
-# 👋 Hi, I'm Naman  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hey%20Everyone&fontSize=90" />
+</p>
+
+
+<h1 align = "center"><strong>I'm Naman</strong></h1>  
 
 I’m a **BTech Computer Science Engineering student** at **BPIT IPU** with a passion for exploring both **software** and **hardware** technologies. Welcome to my GitHub profile, where I showcase my journey through the world of programming, development, and tech innovations.  
 
