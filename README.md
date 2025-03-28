@@ -2,10 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hey%20Everyone&fontSize=90" />
 </p>
 
+<h1 align="center"><strong>👋I'm Naman Jain!</strong></h1>
 
-<h1 align = "center"><strong>I'm Naman</strong></h1>  
-
-I’m a **BTech Computer Science Engineering student** at **BPIT IPU** with a passion for exploring both **software** and **hardware** technologies. Welcome to my GitHub profile, where I showcase my journey through the world of programming, development, and tech innovations.  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Front+End+Developer🙎‍♂️;Machine+Learning+Enthusiast+📊;Coder+💻;)](https://git.io/typing-svg)
+[![](https://visitcount.itsvg.in/api?id=namanjain2012&icon=0&color=0)](https://visitcount.itsvg.in)   
+I’m passionate about new technologies, problem-solving, and building innovative projects. With a strong foundation in object-oriented programming (OOP) and web technologies, I love exploring new frameworks and contributing to open-source projects.
 
 ## 🌟 About Me  
 
@@ -41,5 +42,10 @@ I’m a **BTech Computer Science Engineering student** at **BPIT IPU** with a pa
 
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" style="vertical-align:middle; margin-right: 10px;">](https://leetcode.com/namanjain2012)
 
+![snake gif](https://github.com/namanjain2012/namanjain2012/blob/output/snake.svg)
+<br>
+## ✍️ Quote For The Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 
 Let’s build, innovate, and grow together! 🌟
