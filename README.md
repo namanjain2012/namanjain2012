@@ -4,35 +4,38 @@
 
 <h1 align="center"><strong>👋I'm Naman Jain!</strong></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Front+End+Developer🙎‍♂️;Machine+Learning+Enthusiast+📊;Coder+💻;)](https://git.io/typing-svg)
-[![](https://visitcount.itsvg.in/api?id=namanjain2012&icon=0&color=0)](https://visitcount.itsvg.in)   
-I’m passionate about new technologies, problem-solving, and building innovative projects. With a strong foundation in object-oriented programming (OOP) and web technologies, I love exploring new frameworks and contributing to open-source projects.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&vCenter=true&lines=Software+Engineer+💻;DevOps+%26+Cloud+Enthusiast+☁️;Backend+Developer+🔧;Problem+Solver+🧠)](https://git.io/typing-svg)
+[![](https://visitcount.itsvg.in/api?id=namanjain2012&icon=0&color=0)](https://visitcount.itsvg.in)  
+
+I'm a Computer Science graduate from **Bhagwan Parshuram Institute of Technology (BPIT)** with a **9.10 CGPA**. I'm passionate about software engineering, backend development, DevOps, cloud infrastructure, and solving challenging problems.
 
 ## 🌟 About Me  
 
-- 🔭 **Experience**: Interned at **Tresor Systems Pvt Ltd**, focusing on **web applications** and **API development**.  
-- 💻 **Proficient in**: Python, Java, C, and C++.  
-- 📚 **Currently Learning**:  
-  - **Data Structures and Algorithms** in Java.  
-  - Advanced **Web Development** with HTML, CSS, and JavaScript. 
+- 🎓 **Education**: B.Tech in Computer Science from **BPIT (2022–2026)**, CGPA **9.10**.
+- 🔭 **Experience**: Worked as a **Junior Software Engineer Intern at Avalon Information Systems Pvt. Ltd.**, focusing on OCI, Kubernetes, Docker, and CI/CD.
+- 💻 **Previous Internship**: **Tresor Systems Pvt. Ltd.**, working on web applications, APIs, search, and data extraction.
+- 🧠 **Problem Solving**: Solved **1,000+ algorithmic problems** across LeetCode and coding platforms, with a **600+ day coding streak**.
 
 ## 🛠️ Skills & Tools  
 
-- **Languages**: Python, Java, C, C++.  
-- **Web Development**: HTML, CSS, JavaScript.  
-- **Frameworks & Libraries**: Pandas, Flask, Selenium.
+- **Languages**: Java, Python.
+- **Backend & APIs**: Flask, REST APIs, SQL.
+- **DevOps & Cloud**: Docker, Kubernetes, Oracle Cloud Infrastructure (OCI), CI/CD.
+- **Libraries & Tools**: Pandas, NumPy, Selenium, Postman, Git/GitHub, Linux, k9s, Jupyter Notebook.
+- **Computer Science**: Data Structures & Algorithms, OOP, DBMS, Operating Systems.
 
 ## 🌐 Featured Projects  
 
-- **API Development**: Created APIs to handle financial calculations and EMI breakdowns for Apple product purchases during my internship.  
-- **Web Scraping**: Automated data extraction using **Selenium** and **BeautifulSoup**.  
-- **Smart Search Engine**: Developed a **fuzzy string matching algorithm** to enhance IVR systems.  
-- **Digital Flipbook**: Built innovative hardware-software integration which senses hand gestures and performs actions specified.  
+- **Hinglish Sarcasm Detection System**: Built an NLP system to detect sarcasm in Hinglish social media comments. Used NLTK, WordNet (OMW), T5 paraphrasing, and SBERT embeddings; achieved **95.35% test accuracy**.
+- **Intelligent Product Search Engine**: Developed a typo-tolerant search engine for Apple products using FuzzyWuzzy-based matching. Improved query accuracy by approximately **85%**, integrated store stock data, and reduced manual lookup time by approximately **70%**.
+- **API Development**: Built Flask REST APIs for EMI calculations and product purchase benefit analysis during my internship.
+- **Web Scraping**: Designed scraping pipelines to extract and process **260,000+ records** for an internal database.
 
 ## 🚀 Current Focus  
 
-- Enhancing my understanding of **DSA** for competitive programming.  
-- Building robust **web applications** with modern frontend and backend technologies. 
+- Deepening my knowledge of **DevOps, Kubernetes, cloud infrastructure, and CI/CD**.
+- Improving backend engineering and system design skills.
+- Continuing to solve algorithmic problems and build practical software projects.
 
 ## 🤝 Let’s Connect  
 
@@ -40,7 +43,7 @@ I’m passionate about new technologies, problem-solving, and building innovativ
 
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" style="vertical-align:middle; margin-right: 10px;">](https://mail.google.com/mail/?view=cm&fs=1&to=namanjain1093@gmail.com&su=SUBJECT&body=HEY%20Naman,%20)
 
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" style="vertical-align:middle; margin-right: 10px;">](https://leetcode.com/namanjain2012)
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" style="vertical-align:middle; margin-right: 10px;">](https://leetcode.com/u/namanjain2012)
 
 ![snake gif](https://github.com/namanjain2012/namanjain2012/blob/output/snake.svg)
 <br>
